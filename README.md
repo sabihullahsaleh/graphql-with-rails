@@ -6,14 +6,17 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+  ruby 2.7.3
 
 * System dependencies
 
 * Configuration
 
 * Database creation
+  sqlite3
 
 * Database initialization
+  rails db:seed
 
 * How to run the test suite
 
